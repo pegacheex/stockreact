@@ -1,0 +1,161 @@
+/* ________________ */
+/* Footer */
+/* _______________ */
+
+
+.footer-logo {
+  height: 90px;
+}
+
+
+
+.footer-design {
+  padding: 15px 0px 5px 0px;
+}
+
+.footer-item i {
+  padding: 0px 10px 0px 0px;
+}
+
+.footer-heading h4 {
+  font-size: 1.125rem;
+  font-weight: 500;
+  padding: 10px 0px;
+  margin: 10px;
+  color: #424242;
+}
+
+.footer-item h4 {
+  font-size: 1rem;
+  font-weight: 500;
+  color: #424242;
+}
+
+
+.footer-item {
+  list-style-type: none;
+  padding: 5px 0px;
+}
+
+.footer-list ul {
+  padding: 0px;
+  font-weight: 400px;
+  margin: 10px;
+}
+
+.footer-item a {
+  color: #424242;
+  text-decoration: none;
+  font-weight: 400px;
+  font-size: 1rem;
+  
+}
+
+.under-the-footer{
+  padding-bottom: 20px;
+}
+.under-the-footer a {
+  color: #424242;
+  text-decoration: none;
+  font-weight: 400px;
+  font-size: .85rem;
+}
+
+@media only screen and (max-width: 450px) {
+ 
+  .footer-logo {
+    height: 25px;
+  }
+
+  .footer-item i {
+    padding: 0px 10px 0px 0px;
+  }
+
+  .footer-heading h4{
+    font-size: 1.125rem;
+    font-weight: 500;
+    padding: 15px 0px 0px 10px;
+    margin: 0px;
+  }
+
+  .footer-item {
+    list-style-type: none;
+    padding: 0px 0px;
+  }
+
+  .footer-list ul {
+    padding: 0px;
+    margin: 0px 0px;
+  }
+
+  .footer-item a {
+    font-size: .85rem;
+    font-weight: 400;
+    padding: 0px 0px 0px 20px;
+  }
+
+  .footer-item h4 {
+    font-size: .85rem;
+    font-weight: 500;
+    color: #424242;
+  }
+
+  .under-the-footer a {
+    color: #424242;
+    text-decoration: none;
+    font-weight: 400px;
+  font-size: .85rem;
+  }
+}
+
+@media only screen and (max-width: 768px) and (min-width: 450px) {
+  .footer-logo {
+   height: 20px;
+  }
+
+  .footer-brand {
+    font-size: 1.7vw;
+  }
+
+  .footer-item i {
+    padding: 0px 10px 0px 0px;
+  }
+
+  .footer-heading h4 {
+    font-size: 1.125rem;
+    font-weight: 500;
+    margin: 0px;
+  }
+
+  .footer-item {
+    list-style-type: none;
+    padding: 0px 0px;
+  }
+
+  .footer-design {
+    padding: 5px 0px 5px 0px;
+  }
+
+  .footer-list ul {
+    padding: 0px;
+    margin: 0px 0px;
+  }
+
+  .footer-item a {
+    font-size: .85rem;
+    font-weight: 400;
+    padding: 0px 0px 0px 0px;
+  }
+
+  .footer-item h4 {
+    font-size: .85rem;
+    font-weight: 500;
+    color: #424242;
+  }
+  .under-the-footer a {
+    color: #424242;
+    text-decoration: none;
+    font-weight: 400px;
+    font-size: .85rem;
+  }
+}
